@@ -61,6 +61,5 @@ bot.on('message', async (msg) => {
     }
 });
 
-bot.login('ODQ3MTEwODcyODM2MzQxNzkx.YK5Teg.SIIVCsIWK_A0t7_Z6w-0ctMtngE');
-//
-//ssh root@45.79.72.47:amine@097601
+bot.login('');
+
